@@ -26,5 +26,4 @@ public class LoginOpenMrsPage {
 
     @FindBy(xpath = "//a[contains(text(),'Logout')]")
     public WebElement logoutButton;
-
 }
